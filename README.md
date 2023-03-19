@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 <div align="center"> 
 
 ####  :wave:&nbsp; Welcome my github profile !
-
 <br/>
 
-####  :books:&nbsp; Tech Stack 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<br/>
+####  :book:&nbsp; Tech Stack 
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-2E6FB5?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -36,9 +33,15 @@ Here are some ideas to get you started:
 <br/>
 <br/>
  
+####  :books:&nbsp; ing ~ 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
+<br/>
+<br/>
+ 
 ####  :joy:&nbsp; Baekjoon tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkwhr3256)](https://solved.ac/rkwhr3256/)
-  
+<br/>
 <br/>
 
 ####  :bar_chart:&nbsp; Stats?
