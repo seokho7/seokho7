@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 
-####  :wave:&nbsp; Welcome my github profile !
+##  :wave:&nbsp; Welcome my github profile !
 <br/>
 
 ####  :book:&nbsp; Tech Stack 
