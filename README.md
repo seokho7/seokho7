@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <br/>
 
 ####  :bar_chart:&nbsp; Stats?
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
