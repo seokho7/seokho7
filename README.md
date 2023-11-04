@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
  
-####  :bar_chart:&nbsp; Stats?
+####  :bar_chart:&nbsp; Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
