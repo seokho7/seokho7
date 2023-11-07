@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
  
-####  :books:&nbsp; ing ~ 
+####  :books:&nbsp; Ing ~ 
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
