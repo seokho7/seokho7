@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/github-4c4c4c?style=for-the-badge&logo=github&logoColor=#181717">
 <img src="https://img.shields.io/badge/WebStorm-15A4F7?style=for-the-badge&logo=webstorm&logoColor=white">
+
+<br/>
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">   
+<img src="https://img.shields.io/badge/vsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">   
 <br/>
 <br/>
 
