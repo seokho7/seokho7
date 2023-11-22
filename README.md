@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 <br/>
+ 
+####  :hammer:&nbsp; Tools 
+
+<img src="https://img.shields.io/badge/github-4c4c4c?style=for-the-badge&logo=github&logoColor=#181717">
+<img src="https://img.shields.io/badge/WebStorm-15A4F7?style=for-the-badge&logo=webstorm&logoColor=white">
+<br/>
+<br/>
 
 ####  :book:&nbsp; Tech Stack 
 
@@ -27,10 +34,6 @@ Here are some ideas to get you started:
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/github-4c4c4c?style=for-the-badge&logo=github&logoColor=#181717">
-
-<img src="https://img.shields.io/badge/WebStorm-15A4F7?style=for-the-badge&logo=webstorm&logoColor=white">
 <br/>
 <br/>
  
