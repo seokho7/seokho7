@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WebStorm-15A4F7?style=for-the-badge&logo=webstorm&logoColor=white">
 
 <br/>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">   
+<img src="https://img.shields.io/badge/androidstudio-%234ea94b.svg?style=for-the-badge&logo=androidstudio&logoColor=white">   
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">   
 <br/>
 <br/>
